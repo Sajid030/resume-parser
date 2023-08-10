@@ -12,7 +12,10 @@ To run the code and utilize the resources in this repository, you'll need the fo
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages (specified in the code)
+- Required Python packages
+  `
+    pip install numpy pandas plotly nltk wordcloud scikit-learn
+  `
 - Resume dataset (provided or replace with your own)
 
 Please ensure you have the necessary dependencies installed before running the code.
